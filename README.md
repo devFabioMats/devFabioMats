@@ -9,8 +9,7 @@
 
 
 ## 🚀 Sobre mim
-Engenheiro de Computação em formação pela UTFPR - Câmpus Cornélio Procópio 💪
-
+Engenheiro de Computação em formação pela UTFPR - Câmpus Cornélio Procópio 💪  
 Engenheiro de Dados do Projeto Analisia
 
 
