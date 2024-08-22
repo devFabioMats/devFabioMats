@@ -2,13 +2,13 @@
 # Hi there👋 I'm Fabio and welcome to my GitHub 😉
 A developer from Brazil...
 
-[![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabiomats&theme=dark)](https://github.com/devFabioMats)
+[![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabiomats&theme=dracula)](https://github.com/devFabioMats)
 
 ## 🚀 About me
 - 🏫 Software Engineer in training at UTFPR - Cornélio Procópio Campus
 - ✍🏼 I'm studying to be a full-stack developer 
 
-## 🛠 Some of my knowledge
+## 💻 Some of my knowledge
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
