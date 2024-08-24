@@ -8,7 +8,7 @@ A developer from Brazil...
 - 🏫 Software Engineer student at FEDERAL UNIVERSITY OF TECHNOLOGY - Paraná - Brazil
 - ✍🏼 I'm learner to be a full-stack developer 
 
-## 💻 Some of my knowledge
+## 👨‍💻 Some of my knowledge
 <p>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;&nbsp;&nbsp;
@@ -31,6 +31,10 @@ A developer from Brazil...
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabao.mats) 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) 
 
-<br>
+<br/>
 
 _If you fall asleep now, you will dream. If you study now, you will live your dream._
+
+<br/>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
