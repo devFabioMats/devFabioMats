@@ -5,8 +5,8 @@ A developer from Brazil...
 ![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabiomats&show_icons=true&theme=dracula&hide_rank=true)
 
 ## 🚀 About me
-- 🏫 Software Engineer student at FEDERAL UNIVERSITY OF TECHNOLOGY - Paraná - Brazil
-- ✍🏼 I'm learner to be a full-stack developer 
+- 🏫 **Software Engineer student** at FEDERAL UNIVERSITY OF TECHNOLOGY - Paraná - Brazil
+- ✍🏼 I'm learner to be a **full-stack developer** 
 
 ## 👨‍💻 Some of my knowledge
 <p>
