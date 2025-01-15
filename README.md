@@ -9,7 +9,7 @@ A developer from Brazil...
 - ✍🏼 I'm learner to be a **full-stack developer** 
 
 ## 👨‍💻 Some of my knowledge
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,cs,c,python,mysql,github)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,java,dotnet,cs,c,python,mysql,github)](#)
 
 [![Fabio's Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=devfabiomats&layout=compact&count_private=true&theme=dracula&title_color=00b3ff)](#)
 
